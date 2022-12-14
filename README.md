@@ -1,8 +1,8 @@
 # VIGENERE CIPHER ENCRYPTION/DECRYPTION
 
--Jimmy Lam
--Fall 2022
--Professor Kasey Nguyen
+-Jimmy Lam  
+-Fall 2022  
+-Professor Kasey Nguyen  
 
 ### Description
 
