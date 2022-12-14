@@ -11,9 +11,9 @@ Using a unique text and key given by the user, Vigenere cipher will output an en
 
 * This program allows the user to encrypt and decrypt by using the Vigenere cipher algorithms...  
 
-  **Encryption: E = (P[i] + K[i]) mod 26 + 65  
+  **Encryption: E = (P[i] + K[i]) mod 26 + 65**  
   
-  **Decryption: D = (C[i] - K[i] mod 26 + 65  
+  **Decryption: D = (C[i] - K[i] mod 26 + 65**  
 
 ### Instructions
 When launching the program...  
