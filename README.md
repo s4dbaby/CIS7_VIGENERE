@@ -20,8 +20,9 @@ When launching the program...
 1. Choose either to encrypt a text, decrypt a text, or end the program  
 2. If choosing to either encrypt or decrypt a text then input your unique text  
 3. After entering your text, enter your unique key when it asks  
+4. Done, the Vigenere cipher is complete  
 
-Please refer to the flowchart below    
+Please refer the instructions above to the flowchart below    
   ![FLOWCHART drawio (2)](https://user-images.githubusercontent.com/120606764/207740662-739cb93e-ebf2-4122-a858-50ad2d5547cd.png)
 
   
