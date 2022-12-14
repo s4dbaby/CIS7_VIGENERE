@@ -7,15 +7,23 @@ Using a unique text and key given by the user, Vigenere cipher will output an en
 
 ##### Programming Approach
 
-This program is entirely C++  
-The Vigenere cipher algorithm used in this program is...  
+* This program is entirely C++  
 
-  Encryption: E = (P[i] + K[i]) mod 26 + 65  
+* This program allows the user to encrypt and decrypt by using the Vigenere cipher algorithms...  
+
+  **Encryption: E = (P[i] + K[i]) mod 26 + 65  
   
-  Decryption: D = (C[i] - K[i] mod 26 + 65
+  **Decryption: D = (C[i] - K[i] mod 26 + 65  
 
 ### Instructions
+When launching the program...  
+1. Choose either to encrypt a text, decrypt a text, or end the program  
+2. If choosing to either encrypt or decrypt a text then input your unique text  
+3. After entering your text, enter your unique key when it asks  
 
+Please refer to the flowchart below  
+  
+  
 ### Author and Published Date
 
 Jimmy Lam  
