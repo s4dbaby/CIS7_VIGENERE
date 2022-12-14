@@ -21,8 +21,9 @@ When launching the program...
 2. If choosing to either encrypt or decrypt a text then input your unique text  
 3. After entering your text, enter your unique key when it asks  
 
-Please refer to the flowchart below  
-  
+Please refer to the flowchart below    
+  ![FLOWCHART drawio (2)](https://user-images.githubusercontent.com/120606764/207740662-739cb93e-ebf2-4122-a858-50ad2d5547cd.png)
+
   
 ### Author and Published Date
 
